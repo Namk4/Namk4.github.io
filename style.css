@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("cbv.jpg.jpg");
+  padding: 200px 200px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("cbv.jpg.jpg");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("cbv.jpg.jpg");
+}
+.carousel-indincators {
+  position: absolute;
+  bottom: 35%;
+  left: 50%;
+}
